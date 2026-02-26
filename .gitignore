@@ -1,0 +1,18 @@
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# secrets
+.env
+*.secret
+
+# database artifacts / dumps (optional)
+*.db
+*.sqlite
+*.dump
+*.bak
+
+# temp
+tmp/
+
